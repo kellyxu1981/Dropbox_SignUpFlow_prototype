@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC3219F4-C032-4708-815C-7E425C191ACF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DropBox_prototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03519497D9B35DF9D77EC5472F66D44B58201E2C</key>
+		<string>https://github.com/kellyxu1981/Homework_dropbox.git</string>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DropBox_prototype.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03519497D9B35DF9D77EC5472F66D44B58201E2C</key>
+		<string>../..</string>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kellyxu1981/Homework_dropbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03519497D9B35DF9D77EC5472F66D44B58201E2C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03519497D9B35DF9D77EC5472F66D44B58201E2C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Homework_dropbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
