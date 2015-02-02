@@ -21,6 +21,9 @@ class loginViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func onTapGesture(sender: AnyObject) {
+        self.view.endEditing(true)
+    }
 
     @IBAction func onTapBackButton(sender: AnyObject) {
         navigationController!.popViewControllerAnimated(true)
