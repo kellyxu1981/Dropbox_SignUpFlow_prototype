@@ -430,7 +430,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="hYA-J6-1uT" kind="modal" animates="NO" id="9A5-2L-erT"/>
+                                    <segue destination="LcN-vN-RCz" kind="modal" modalTransitionStyle="crossDissolve" id="9qm-eQ-Pdy"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -476,36 +476,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ECw-OG-xwm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3444" y="3847"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="BKG-pB-rVR">
-            <objects>
-                <viewController id="hYA-J6-1uT" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="fK2-ef-goN">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="sign_in2" id="wKJ-ZZ-bCA">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                                <autoresizingMask key="autoresizingMask"/>
-                            </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="qcb-so-xa8">
-                                <rect key="frame" x="245" y="20" width="75" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <connections>
-                                    <segue destination="LcN-vN-RCz" kind="modal" modalTransitionStyle="crossDissolve" id="gQ4-ep-20v"/>
-                                </connections>
-                            </button>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="JNM-TE-ST6" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4198" y="3855"/>
         </scene>
         <!--Dropbox-->
         <scene sceneID="llr-69-xda">
@@ -846,7 +816,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7BD-8G-azq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3894" y="4555"/>
+            <point key="canvasLocation" x="4066" y="3862"/>
         </scene>
         <!--Files-->
         <scene sceneID="j0S-xU-cSQ">
@@ -944,7 +914,6 @@
         <image name="settings" width="320" height="772"/>
         <image name="settings_tab" width="30" height="30"/>
         <image name="sign_in1" width="320" height="568"/>
-        <image name="sign_in2" width="320" height="568"/>
         <image name="sign_in3" width="320" height="568"/>
         <image name="terms" width="320" height="568"/>
         <image name="welcome1" width="320" height="568"/>
